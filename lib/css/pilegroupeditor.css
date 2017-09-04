@@ -1,0 +1,7 @@
+#pile-previewer {
+  overflow-x: scroll;
+}
+
+#pile-previewer tr, td{
+  min-width: 8rem;
+}
