@@ -1,4 +1,4 @@
-#vtqt
+# vtqt
 
 A web server that so far serves a few static files, but will eventually enable saving of card setups for quick play and multi-user sessions with hiding of cards from other players.
 
